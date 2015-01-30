@@ -1,0 +1,17 @@
+﻿<Window x:Class="Stoichiometry_RH.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Stoichiometry - Rebecca Harris" Height="297.787" Width="586">
+    <Grid>
+        <Label x:Name="lblFormula" Content="Enter formula:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblExist" Content="If it exists, that compund's molecular weight is:" HorizontalAlignment="Left" Margin="301,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMolWeight" HorizontalAlignment="Left" Height="41" Margin="301,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="256" IsEnabled="False"/>
+        <Button x:Name="btnNormalize" Content="Normalize" HorizontalAlignment="Left" Margin="10,129,0,0" VerticalAlignment="Top" Width="133" Click="btnNormalize_Click" Height="41"/>
+        <Button x:Name="btnCalculate" Content="Calculate" HorizontalAlignment="Left" Margin="148,129,0,0" VerticalAlignment="Top" Width="133" Click="btnCalculate_Click" Height="41"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="355,201,0,0" VerticalAlignment="Top" Width="133" Click="btnClose_Click" Height="41"/>
+        <ComboBox x:Name="cbFormula" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="256" IsEditable="True" Height="43" DropDownClosed="cbFormula_DropDownClosed"/>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="286,129,0,0" VerticalAlignment="Top" Width="133" Height="41" Click="btnSave_Click"/>
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="424,129,0,0" VerticalAlignment="Top" Width="133" Height="41" Click="btnClear_Click"/>
+
+    </Grid>
+</Window>

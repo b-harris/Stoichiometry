@@ -1,0 +1,13 @@
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\bin\Debug\Stoichiometry RH.exe.config
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\bin\Debug\Stoichiometry RH.exe
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\bin\Debug\Stoichiometry RH.pdb
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\Stoichiometry RH.csprojResolveAssemblyReference.cache
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\MainWindow.baml
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\MainWindow.g.cs
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\App.g.cs
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\Stoichiometry RH_MarkupCompile.cache
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\Stoichiometry RH.g.resources
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\Stoichiometry_RH.Properties.Resources.resources
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\Stoichiometry RH.csproj.GenerateResource.Cache
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\Stoichiometry RH.exe
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry RH\obj\Debug\Stoichiometry RH.pdb

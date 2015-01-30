@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stoichiometry RH", "Stoichiometry RH\Stoichiometry RH.csproj", "{D568586C-B550-4239-9095-5E047BA29C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stoichiometry", "Stoichiometry\Stoichiometry.csproj", "{3AE86CFF-9162-4F20-8A6A-B7B6BDCD604C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D568586C-B550-4239-9095-5E047BA29C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D568586C-B550-4239-9095-5E047BA29C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D568586C-B550-4239-9095-5E047BA29C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D568586C-B550-4239-9095-5E047BA29C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE86CFF-9162-4F20-8A6A-B7B6BDCD604C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE86CFF-9162-4F20-8A6A-B7B6BDCD604C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE86CFF-9162-4F20-8A6A-B7B6BDCD604C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE86CFF-9162-4F20-8A6A-B7B6BDCD604C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

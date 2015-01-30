@@ -1,0 +1,6 @@
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry\bin\Debug\Stoichiometry.dll
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry\bin\Debug\Stoichiometry.pdb
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry\obj\Debug\Stoichiometry.dll
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry\obj\Debug\Stoichiometry.pdb
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry\bin\Debug\Stoichiometry.tlb
+C:\Users\Becky\Documents\Visual Studio 2012\Projects\INFO5060 Programming with .NET\Stoichiometry RH\Stoichiometry\obj\Debug\Stoichiometry.csprojResolveAssemblyReference.cache
